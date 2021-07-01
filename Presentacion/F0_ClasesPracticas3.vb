@@ -318,6 +318,7 @@ Public Class F0_ClasesPracticas3
         _listColores.Add(_prGetColorFromHex("#FFC400")) 'amber A400
         _listColores.Add(_prGetColorFromHex("#FF9E80")) 'deep orange A100
 
+        'mas colores repetidos
         _listColores.Add(_prGetColorFromHex("#FFCDD2")) 'red 100
         _listColores.Add(_prGetColorFromHex("#E1BEE7")) 'purple 100
         _listColores.Add(_prGetColorFromHex("#C5CAE9")) 'indigo 100
@@ -488,6 +489,8 @@ Public Class F0_ClasesPracticas3
         _listColores.Add(_prGetColorFromHex("#FFC400")) 'amber A400
         _listColores.Add(_prGetColorFromHex("#FF9E80")) 'deep orange A100
 
+
+        'mas colores repetidos
         _listColores.Add(_prGetColorFromHex("#FFCDD2")) 'red 100
         _listColores.Add(_prGetColorFromHex("#E1BEE7")) 'purple 100
         _listColores.Add(_prGetColorFromHex("#C5CAE9")) 'indigo 100
@@ -658,6 +661,8 @@ Public Class F0_ClasesPracticas3
         _listColores.Add(_prGetColorFromHex("#FFC400")) 'amber A400
         _listColores.Add(_prGetColorFromHex("#FF9E80")) 'deep orange A100
 
+
+        'mas colores repetidos
         _listColores.Add(_prGetColorFromHex("#FFCDD2")) 'red 100
         _listColores.Add(_prGetColorFromHex("#E1BEE7")) 'purple 100
         _listColores.Add(_prGetColorFromHex("#C5CAE9")) 'indigo 100
@@ -691,6 +696,210 @@ Public Class F0_ClasesPracticas3
         _listColores.Add(_prGetColorFromHex("#FFC400")) 'amber A400
         _listColores.Add(_prGetColorFromHex("#FF9E80")) 'deep orange A100
 
+
+        'mas colores repetidos
+        _listColores.Add(_prGetColorFromHex("#FFCDD2")) 'red 100
+        _listColores.Add(_prGetColorFromHex("#E1BEE7")) 'purple 100
+        _listColores.Add(_prGetColorFromHex("#C5CAE9")) 'indigo 100
+        _listColores.Add(_prGetColorFromHex("#80D8FF")) 'ligth blue A100
+        _listColores.Add(_prGetColorFromHex("#1DE9B6")) 'teal A400
+        _listColores.Add(_prGetColorFromHex("#CCFF90")) 'light green A100
+        _listColores.Add(_prGetColorFromHex("#FFFF8D")) 'yellow A100
+        _listColores.Add(_prGetColorFromHex("#FFAB40")) 'orange A200
+        _listColores.Add(_prGetColorFromHex("#F48FB1")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#B39DDB")) 'deep purple 200
+        _listColores.Add(_prGetColorFromHex("#90CAF9")) 'blue 200
+        _listColores.Add(_prGetColorFromHex("#00B8D4")) 'cyan A700
+        _listColores.Add(_prGetColorFromHex("#69F0AE")) 'green A200
+        _listColores.Add(_prGetColorFromHex("#C6FF00")) 'lime A400
+        _listColores.Add(_prGetColorFromHex("#FFAB00")) 'amber A700
+        _listColores.Add(_prGetColorFromHex("#FF6E40")) 'Deep orange A200
+        _listColores.Add(_prGetColorFromHex("#EF9A9A")) 'red 200
+        _listColores.Add(_prGetColorFromHex("#CE93D8")) 'purple 200
+        _listColores.Add(_prGetColorFromHex("#9FA8DA")) 'indigo 200
+        _listColores.Add(_prGetColorFromHex("#00B0FF")) 'light blue A400
+        _listColores.Add(_prGetColorFromHex("#00BFA5")) 'teal A700
+        _listColores.Add(_prGetColorFromHex("#76FF03")) 'light green A400
+        _listColores.Add(_prGetColorFromHex("#FF9100")) 'orange A400
+        _listColores.Add(_prGetColorFromHex("#D7CCC8")) 'brown 100
+        _listColores.Add(_prGetColorFromHex("#F8BBD0")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#D1C4E9")) 'deep purple 100
+        _listColores.Add(_prGetColorFromHex("#42A5F5")) 'blue 400
+        _listColores.Add(_prGetColorFromHex("#00E5FF")) 'cyan A400
+        _listColores.Add(_prGetColorFromHex("#00E676")) 'green A400
+        _listColores.Add(_prGetColorFromHex("#F4FF81")) 'lime A100
+        _listColores.Add(_prGetColorFromHex("#FFC400")) 'amber A400
+        _listColores.Add(_prGetColorFromHex("#FF9E80")) 'deep orange A100
+
+        'mas colores repetidos
+        _listColores.Add(_prGetColorFromHex("#FFCDD2")) 'red 100
+        _listColores.Add(_prGetColorFromHex("#E1BEE7")) 'purple 100
+        _listColores.Add(_prGetColorFromHex("#C5CAE9")) 'indigo 100
+        _listColores.Add(_prGetColorFromHex("#80D8FF")) 'ligth blue A100
+        _listColores.Add(_prGetColorFromHex("#1DE9B6")) 'teal A400
+        _listColores.Add(_prGetColorFromHex("#CCFF90")) 'light green A100
+        _listColores.Add(_prGetColorFromHex("#FFFF8D")) 'yellow A100
+        _listColores.Add(_prGetColorFromHex("#FFAB40")) 'orange A200
+        _listColores.Add(_prGetColorFromHex("#F48FB1")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#B39DDB")) 'deep purple 200
+        _listColores.Add(_prGetColorFromHex("#90CAF9")) 'blue 200
+        _listColores.Add(_prGetColorFromHex("#00B8D4")) 'cyan A700
+        _listColores.Add(_prGetColorFromHex("#69F0AE")) 'green A200
+        _listColores.Add(_prGetColorFromHex("#C6FF00")) 'lime A400
+        _listColores.Add(_prGetColorFromHex("#FFAB00")) 'amber A700
+        _listColores.Add(_prGetColorFromHex("#FF6E40")) 'Deep orange A200
+        _listColores.Add(_prGetColorFromHex("#EF9A9A")) 'red 200
+        _listColores.Add(_prGetColorFromHex("#CE93D8")) 'purple 200
+        _listColores.Add(_prGetColorFromHex("#9FA8DA")) 'indigo 200
+        _listColores.Add(_prGetColorFromHex("#00B0FF")) 'light blue A400
+        _listColores.Add(_prGetColorFromHex("#00BFA5")) 'teal A700
+        _listColores.Add(_prGetColorFromHex("#76FF03")) 'light green A400
+        _listColores.Add(_prGetColorFromHex("#FF9100")) 'orange A400
+        _listColores.Add(_prGetColorFromHex("#D7CCC8")) 'brown 100
+        _listColores.Add(_prGetColorFromHex("#F8BBD0")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#D1C4E9")) 'deep purple 100
+        _listColores.Add(_prGetColorFromHex("#42A5F5")) 'blue 400
+        _listColores.Add(_prGetColorFromHex("#00E5FF")) 'cyan A400
+        _listColores.Add(_prGetColorFromHex("#00E676")) 'green A400
+        _listColores.Add(_prGetColorFromHex("#F4FF81")) 'lime A100
+        _listColores.Add(_prGetColorFromHex("#FFC400")) 'amber A400
+        _listColores.Add(_prGetColorFromHex("#FF9E80")) 'deep orange A100
+
+        'mas colores repetidos
+        _listColores.Add(_prGetColorFromHex("#FFCDD2")) 'red 100
+        _listColores.Add(_prGetColorFromHex("#E1BEE7")) 'purple 100
+        _listColores.Add(_prGetColorFromHex("#C5CAE9")) 'indigo 100
+        _listColores.Add(_prGetColorFromHex("#80D8FF")) 'ligth blue A100
+        _listColores.Add(_prGetColorFromHex("#1DE9B6")) 'teal A400
+        _listColores.Add(_prGetColorFromHex("#CCFF90")) 'light green A100
+        _listColores.Add(_prGetColorFromHex("#FFFF8D")) 'yellow A100
+        _listColores.Add(_prGetColorFromHex("#FFAB40")) 'orange A200
+        _listColores.Add(_prGetColorFromHex("#F48FB1")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#B39DDB")) 'deep purple 200
+        _listColores.Add(_prGetColorFromHex("#90CAF9")) 'blue 200
+        _listColores.Add(_prGetColorFromHex("#00B8D4")) 'cyan A700
+        _listColores.Add(_prGetColorFromHex("#69F0AE")) 'green A200
+        _listColores.Add(_prGetColorFromHex("#C6FF00")) 'lime A400
+        _listColores.Add(_prGetColorFromHex("#FFAB00")) 'amber A700
+        _listColores.Add(_prGetColorFromHex("#FF6E40")) 'Deep orange A200
+        _listColores.Add(_prGetColorFromHex("#EF9A9A")) 'red 200
+        _listColores.Add(_prGetColorFromHex("#CE93D8")) 'purple 200
+        _listColores.Add(_prGetColorFromHex("#9FA8DA")) 'indigo 200
+        _listColores.Add(_prGetColorFromHex("#00B0FF")) 'light blue A400
+        _listColores.Add(_prGetColorFromHex("#00BFA5")) 'teal A700
+        _listColores.Add(_prGetColorFromHex("#76FF03")) 'light green A400
+        _listColores.Add(_prGetColorFromHex("#FF9100")) 'orange A400
+        _listColores.Add(_prGetColorFromHex("#D7CCC8")) 'brown 100
+        _listColores.Add(_prGetColorFromHex("#F8BBD0")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#D1C4E9")) 'deep purple 100
+        _listColores.Add(_prGetColorFromHex("#42A5F5")) 'blue 400
+        _listColores.Add(_prGetColorFromHex("#00E5FF")) 'cyan A400
+        _listColores.Add(_prGetColorFromHex("#00E676")) 'green A400
+        _listColores.Add(_prGetColorFromHex("#F4FF81")) 'lime A100
+        _listColores.Add(_prGetColorFromHex("#FFC400")) 'amber A400
+        _listColores.Add(_prGetColorFromHex("#FF9E80")) 'deep orange A100
+
+        'mas colores repetidos
+        _listColores.Add(_prGetColorFromHex("#FFCDD2")) 'red 100
+        _listColores.Add(_prGetColorFromHex("#E1BEE7")) 'purple 100
+        _listColores.Add(_prGetColorFromHex("#C5CAE9")) 'indigo 100
+        _listColores.Add(_prGetColorFromHex("#80D8FF")) 'ligth blue A100
+        _listColores.Add(_prGetColorFromHex("#1DE9B6")) 'teal A400
+        _listColores.Add(_prGetColorFromHex("#CCFF90")) 'light green A100
+        _listColores.Add(_prGetColorFromHex("#FFFF8D")) 'yellow A100
+        _listColores.Add(_prGetColorFromHex("#FFAB40")) 'orange A200
+        _listColores.Add(_prGetColorFromHex("#F48FB1")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#B39DDB")) 'deep purple 200
+        _listColores.Add(_prGetColorFromHex("#90CAF9")) 'blue 200
+        _listColores.Add(_prGetColorFromHex("#00B8D4")) 'cyan A700
+        _listColores.Add(_prGetColorFromHex("#69F0AE")) 'green A200
+        _listColores.Add(_prGetColorFromHex("#C6FF00")) 'lime A400
+        _listColores.Add(_prGetColorFromHex("#FFAB00")) 'amber A700
+        _listColores.Add(_prGetColorFromHex("#FF6E40")) 'Deep orange A200
+        _listColores.Add(_prGetColorFromHex("#EF9A9A")) 'red 200
+        _listColores.Add(_prGetColorFromHex("#CE93D8")) 'purple 200
+        _listColores.Add(_prGetColorFromHex("#9FA8DA")) 'indigo 200
+        _listColores.Add(_prGetColorFromHex("#00B0FF")) 'light blue A400
+        _listColores.Add(_prGetColorFromHex("#00BFA5")) 'teal A700
+        _listColores.Add(_prGetColorFromHex("#76FF03")) 'light green A400
+        _listColores.Add(_prGetColorFromHex("#FF9100")) 'orange A400
+        _listColores.Add(_prGetColorFromHex("#D7CCC8")) 'brown 100
+        _listColores.Add(_prGetColorFromHex("#F8BBD0")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#D1C4E9")) 'deep purple 100
+        _listColores.Add(_prGetColorFromHex("#42A5F5")) 'blue 400
+        _listColores.Add(_prGetColorFromHex("#00E5FF")) 'cyan A400
+        _listColores.Add(_prGetColorFromHex("#00E676")) 'green A400
+        _listColores.Add(_prGetColorFromHex("#F4FF81")) 'lime A100
+        _listColores.Add(_prGetColorFromHex("#FFC400")) 'amber A400
+        _listColores.Add(_prGetColorFromHex("#FF9E80")) 'deep orange A100
+
+        'mas colores repetidos
+        _listColores.Add(_prGetColorFromHex("#FFCDD2")) 'red 100
+        _listColores.Add(_prGetColorFromHex("#E1BEE7")) 'purple 100
+        _listColores.Add(_prGetColorFromHex("#C5CAE9")) 'indigo 100
+        _listColores.Add(_prGetColorFromHex("#80D8FF")) 'ligth blue A100
+        _listColores.Add(_prGetColorFromHex("#1DE9B6")) 'teal A400
+        _listColores.Add(_prGetColorFromHex("#CCFF90")) 'light green A100
+        _listColores.Add(_prGetColorFromHex("#FFFF8D")) 'yellow A100
+        _listColores.Add(_prGetColorFromHex("#FFAB40")) 'orange A200
+        _listColores.Add(_prGetColorFromHex("#F48FB1")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#B39DDB")) 'deep purple 200
+        _listColores.Add(_prGetColorFromHex("#90CAF9")) 'blue 200
+        _listColores.Add(_prGetColorFromHex("#00B8D4")) 'cyan A700
+        _listColores.Add(_prGetColorFromHex("#69F0AE")) 'green A200
+        _listColores.Add(_prGetColorFromHex("#C6FF00")) 'lime A400
+        _listColores.Add(_prGetColorFromHex("#FFAB00")) 'amber A700
+        _listColores.Add(_prGetColorFromHex("#FF6E40")) 'Deep orange A200
+        _listColores.Add(_prGetColorFromHex("#EF9A9A")) 'red 200
+        _listColores.Add(_prGetColorFromHex("#CE93D8")) 'purple 200
+        _listColores.Add(_prGetColorFromHex("#9FA8DA")) 'indigo 200
+        _listColores.Add(_prGetColorFromHex("#00B0FF")) 'light blue A400
+        _listColores.Add(_prGetColorFromHex("#00BFA5")) 'teal A700
+        _listColores.Add(_prGetColorFromHex("#76FF03")) 'light green A400
+        _listColores.Add(_prGetColorFromHex("#FF9100")) 'orange A400
+        _listColores.Add(_prGetColorFromHex("#D7CCC8")) 'brown 100
+        _listColores.Add(_prGetColorFromHex("#F8BBD0")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#D1C4E9")) 'deep purple 100
+        _listColores.Add(_prGetColorFromHex("#42A5F5")) 'blue 400
+        _listColores.Add(_prGetColorFromHex("#00E5FF")) 'cyan A400
+        _listColores.Add(_prGetColorFromHex("#00E676")) 'green A400
+        _listColores.Add(_prGetColorFromHex("#F4FF81")) 'lime A100
+        _listColores.Add(_prGetColorFromHex("#FFC400")) 'amber A400
+        _listColores.Add(_prGetColorFromHex("#FF9E80")) 'deep orange A100
+
+        'mas colores repetidos
+        _listColores.Add(_prGetColorFromHex("#FFCDD2")) 'red 100
+        _listColores.Add(_prGetColorFromHex("#E1BEE7")) 'purple 100
+        _listColores.Add(_prGetColorFromHex("#C5CAE9")) 'indigo 100
+        _listColores.Add(_prGetColorFromHex("#80D8FF")) 'ligth blue A100
+        _listColores.Add(_prGetColorFromHex("#1DE9B6")) 'teal A400
+        _listColores.Add(_prGetColorFromHex("#CCFF90")) 'light green A100
+        _listColores.Add(_prGetColorFromHex("#FFFF8D")) 'yellow A100
+        _listColores.Add(_prGetColorFromHex("#FFAB40")) 'orange A200
+        _listColores.Add(_prGetColorFromHex("#F48FB1")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#B39DDB")) 'deep purple 200
+        _listColores.Add(_prGetColorFromHex("#90CAF9")) 'blue 200
+        _listColores.Add(_prGetColorFromHex("#00B8D4")) 'cyan A700
+        _listColores.Add(_prGetColorFromHex("#69F0AE")) 'green A200
+        _listColores.Add(_prGetColorFromHex("#C6FF00")) 'lime A400
+        _listColores.Add(_prGetColorFromHex("#FFAB00")) 'amber A700
+        _listColores.Add(_prGetColorFromHex("#FF6E40")) 'Deep orange A200
+        _listColores.Add(_prGetColorFromHex("#EF9A9A")) 'red 200
+        _listColores.Add(_prGetColorFromHex("#CE93D8")) 'purple 200
+        _listColores.Add(_prGetColorFromHex("#9FA8DA")) 'indigo 200
+        _listColores.Add(_prGetColorFromHex("#00B0FF")) 'light blue A400
+        _listColores.Add(_prGetColorFromHex("#00BFA5")) 'teal A700
+        _listColores.Add(_prGetColorFromHex("#76FF03")) 'light green A400
+        _listColores.Add(_prGetColorFromHex("#FF9100")) 'orange A400
+        _listColores.Add(_prGetColorFromHex("#D7CCC8")) 'brown 100
+        _listColores.Add(_prGetColorFromHex("#F8BBD0")) 'pink 200
+        _listColores.Add(_prGetColorFromHex("#D1C4E9")) 'deep purple 100
+        _listColores.Add(_prGetColorFromHex("#42A5F5")) 'blue 400
+        _listColores.Add(_prGetColorFromHex("#00E5FF")) 'cyan A400
+        _listColores.Add(_prGetColorFromHex("#00E676")) 'green A400
+        _listColores.Add(_prGetColorFromHex("#F4FF81")) 'lime A100
+        _listColores.Add(_prGetColorFromHex("#FFC400")) 'amber A400
+        _listColores.Add(_prGetColorFromHex("#FF9E80")) 'deep orange A100
 
         'mas colores repetidos
         _listColores.Add(_prGetColorFromHex("#FFCDD2")) 'red 100
